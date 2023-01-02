@@ -1,6 +1,12 @@
 ## Projeto desenvolvido através do curso de Desenvolvimento Web da Trybe. O projeto teve como objetivo o desenvolvimento de um modelo do sistema solar, onde a pessoa usuária consiga visualizar todos os planetas do sistema solar renderizados na tela e todas as cartas com informações sobre missões espaciais.
 
 <details>
+ 
+
+  ![Screenshot](public/examples/Print-Sistema.png)
+</details>
+
+<details>
   <summary><strong>:memo: Habilidades</strong></summary><br />
 
   * Utilizar JSX no React;
@@ -17,3 +23,4 @@
 
   * Fazer uso de `PropTypes` para validar as `props de um componente`.
 </details>
+
