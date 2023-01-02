@@ -1,13 +1,19 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto desenvolvido através do curso de Desenvolvimento Web da Trybe. O projeto teve como objetivo o desenvolvimento de um modelo do sistema solar, onde a pessoa usuária consiga visualizar todos os planetas do sistema solar renderizados na tela e todas as cartas com informações sobre missões espaciais.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<details>
+  <summary><strong>:memo: Habilidades</strong></summary><br />
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+  * Utilizar JSX no React;
+
+  * Utilizar corretamente o método `render()` para renderizar seus componentes;
+
+  * Utilizar `import` para trazer componentes em diferentes arquivos;
+
+  * Criar componentes de classe em React;
+
+  * Criar múltiplos componentes a partir de um array;
+
+  * Fazer uso de `props` corretamente;
+
+  * Fazer uso de `PropTypes` para validar as `props de um componente`.
+</details>
