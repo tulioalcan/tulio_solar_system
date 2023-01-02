@@ -1,3 +1,92 @@
 .App {
   text-align: center;
 }
+
+body {
+position: absolute;
+/* width: 2236.35px; */
+/* height: 3354.53px; */
+/* left: -351.35px; */
+top: 4.16px;
+
+background: url(../src/images/background.png);
+}
+
+header {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+}
+
+h2 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size:x-large;
+}
+
+.planets-container {
+  position: relative;
+  display: block;
+  color: white;
+}
+
+.planets-container2 {
+  position: absolute;
+  display: flex;
+  width: 1284px;
+  height: 305.54px;
+  left: 0px;
+  top: 444px
+}
+
+.missions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /* align-items: center; */
+  background-color: rgb(255, 255, 255, 0.6);
+  position: absolute;
+  width: 1098px;
+  height: 2276px;
+  left: 91px;
+  top: 899px;
+}
+
+.missions h2 {
+  position: absolute;
+  width: 159px;
+  height: 60px;
+  left: 560px;
+  top: 941px;
+
+  font-family: 'Epilogue';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 40px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #FFFFFF;
+}
+
+.mission-card {
+margin-top: 20px;
+display: flexbox;
+box-sizing: border-box;
+/* position:absolute; */
+width: 496px;
+height: 192px;
+left: 134px;
+top: 1672px;
+text-align: center;
+background: rgba(24, 26, 37, 0.5);
+mix-blend-mode: hard-light;
+border: 2px solid #FFFFFF;
+border-radius: 17px;
+color: white;
+} 
